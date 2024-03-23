@@ -1,47 +1,52 @@
-# Underwater-Image-Enhancement-towards-NeRF-based-3D-Reconstruction
-In this project, we present a method for the enhancement of images captured underwater also we have done the 3D representation of the provided scene.
+# Underwater Image Enhancement towards NeRF-based 3D Reconstruction
 
-The goal of underwater image enhancement is to address these challenges and improve the
-quality of underwater images. By enhancing contrast, removing haze, restoring lost colors, and
-improving overall visibility and acuity, the enhanced images can provide clearer and more accurate representations of the underwater environment. Overall, the motivation behind underwater
-image enhancement is to overcome the inherent limitations of underwater imaging and improve
-the quality and accuracy of visual data captured in underwater environments.
+![Underwater Image Enhancement](GIF/nerf arch final.png)
 
-# Objectives
-1. To perform enhancement on given underwater images.
+## Introduction
 
-   
-2.To use the enhanced images towards 3D reconstruction through NeRF.
+This project focuses on enhancing underwater images and utilizing these enhanced images for NeRF-based 3D reconstruction. Underwater imaging presents challenges such as haze, color distortion, low contrast, and loss of visibility. By improving the quality of underwater images, we aim to achieve more accurate 3D reconstructions using NeRF (Neural Radiance Fields) technology.
 
+## Objectives
 
-3.To propose an efficient and effective method for improving underwater photographs. The
-difficulties encountered by underwater photographs, such as haze, color distortion, low contrast,
-and loss of human acuity owing to light dispersion and absorption.
+1. Perform image enhancement on underwater images to address challenges such as haze, color distortion, and low contrast.
+2. Utilize the enhanced images for 3D reconstruction using NeRF-based techniques.
+3. Propose an efficient method for improving underwater image quality and visibility.
+4. Validate the effectiveness of the algorithm through experiments and comparisons with existing techniques.
 
-4. To improve underwater image visibility, color accuracy, and quality for scientific research and
-computer vision applications.
-5. To validate algorithm effectiveness through experiments and comparisons with existing techniques.
+## Problem Statement
 
-# Problem statement
-To demonstrate a learning-based architecture for the enhancement of images captured underwater towards NeRF-based 3D reconstruction.
+The challenge is to develop a learning-based architecture for enhancing underwater images and leveraging these enhanced images for NeRF-based 3D reconstruction. This involves addressing issues such as haze, color distortion, and low visibility in underwater photographs.
 
-#  Application in Societal Context
-Enhancement of images captured underwater is one of the requirements in present societal
-conditions. If we can achieve a more clear vision of the underwater scenario through such
-learning-based models, it will be a tribute to many elements/roles of society.
-Enhancement of images captured underwater and their reconstruction can have novel societal
-applications as follows:
+## Application in Societal Context
 
-1. Marine Conservation and Research.
-   
-2.Coral Reef Monitoring.
+Enhancement of underwater images and 3D reconstruction have significant societal applications:
 
-3.Underwater Surveillance for Protected Areas.
+- **Marine Conservation and Research:** Improved visualization of underwater environments aids in marine conservation efforts and scientific research.
+- **Coral Reef Monitoring:** Clearer images contribute to better monitoring and understanding of coral reef ecosystems.
+- **Underwater Surveillance for Protected Areas:** Enhanced images can be used for surveillance in protected underwater areas.
+- **Naval Special Operations:** Supports reconnaissance missions, underwater infiltration, hydrographic surveying, mine countermeasures, and counter-terrorism operations.
+- **Scientific Exploration:** Enhancing underwater images benefits scientific exploration by providing clearer data for analysis.
 
-4. Naval Special Operations
-a) Reconnaissance missions.
-b)Underwater Infiltration.
-c)Hydrographic Surveying.
-d)Mine Countermeasures.
-e)Counter-Terrorism Operations.
-5.Scientific Exploration
+## Repository Structure
+
+- `code/`: Contains the code for image enhancement and NeRF-based 3D reconstruction.
+- `data/`: Includes sample underwater images and datasets for testing and validation.
+- `docs/`: Documentation related to the project, including reports, presentations, and technical guides.
+- `results/`: Stores the results of image enhancement and 3D reconstruction experiments.
+- `LICENSE`: License information for the project.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the `code/` directory and follow the instructions in the README file to run the image enhancement and 3D reconstruction algorithms.
+3. Refer to the documentation in the `docs/` directory for more detailed information about the project.
+
+## Contributing
+
+Contributions to this project are welcome. If you have ideas for improvements or want to report issues, please open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which allows for modification, distribution, and commercial use with proper attribution.
