@@ -1,6 +1,8 @@
 # Underwater Image Enhancement towards NeRF-based 3D Reconstruction
 
-![Underwater Image Enhancement](Underwater-Image-Enhancement-towards-NeRF-based-3D-Reconstruction/GIF/nerf arch final.png)
+![NeRF Architecture](GIF/nerf%20arch%20final.png)
+
+
 
 ## Introduction
 
