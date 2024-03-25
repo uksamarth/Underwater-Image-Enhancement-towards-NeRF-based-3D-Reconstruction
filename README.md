@@ -31,10 +31,10 @@ Enhancement of underwater images and 3D reconstruction have significant societal
 
 ## Repository Structure
 
-- `code/`: Contains the code for image enhancement and NeRF-based 3D reconstruction.
-- `data/`: Includes sample underwater images and datasets for testing and validation.
-- `docs/`: Documentation related to the project, including reports, presentations, and technical guides.
-- `results/`: Stores the results of image enhancement and 3D reconstruction experiments.
+- `Literature Survey/`: Contains all the research paper related Underwater image enhancement and NeRF-based 3D reconstruction.
+- `main.ipynb/`: Includes code for underwater images and datasets for testing and validation.
+- `report/`: Documentation related to the project, including reports, presentations, and technical guides.
+- `final/`: Stores the results of image enhancement and 3D reconstruction experiments.
 - `LICENSE`: License information for the project.
 
 ## Getting Started
